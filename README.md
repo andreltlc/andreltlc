@@ -20,5 +20,5 @@
 
 - 🔭 I'm currently working with IT support, but I want to switch to being a DEV!
 - 🌱 I’m currently learning JAVA!
-- 🤔 I’m looking for help with to find internship!
+- 🤔 I’m looking for help to find internship!
 
