@@ -1,5 +1,5 @@
 
-## Hello I'm andreltlc, but I'm also known as André Carvalho too!
+## Hello I'm andreltlc, but I'm also known as André Carvalho!
 <div align="left">
   <a href="https://github.com/andreltlc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreltlc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
