@@ -11,7 +11,7 @@
 <a href = "https://www.linkedin.com/in/andreltlc/" target = "_blank" ><img height = "40" width = "100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
  
 </div><br>
-
+ai
           
 
 
